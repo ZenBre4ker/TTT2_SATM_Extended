@@ -9,14 +9,14 @@ The Space and Time Manipulator (short SATM) can change many things.
 Rightclick to change mode.
 Leftclick to activate.
 
-[b][NEW][/b] ConVars are now ready for TTT2 and can be edited in the ULX window.
+**[NEW]** ConVars are now ready for TTT2 and can be edited in the ULX window.
 
 [h1]Modes:[/h1]
 Faster Time
 Slower Time
 Swap Position with a random Player
 
-[b][NEW][/b] Swap Positions of two random Players (including yourself)
+**[NEW]** Swap Positions of two random Players (including yourself)
 
 Type: Equip 2
 
