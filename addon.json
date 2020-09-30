@@ -1,0 +1,11 @@
+{
+	"title"		:	"Space_And_Time_Manipulator_Extended",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "fun", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
