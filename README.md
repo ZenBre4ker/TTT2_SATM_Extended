@@ -4,10 +4,10 @@
 This Addon only works for the "Trouble in Terrorist Town"-Gamemode. This weapon will not show up in sandbox mode.
 
 ### Features:
-<p>The Space and Time Manipulator (short SATM) can change many things.<br>
-Rightclick to change mode.<br>
-Leftclick to activate.<br>
-**[NEW]** ConVars are now ready for TTT2 and can be edited in the ULX window.</p>
+>The Space and Time Manipulator (short SATM) can change many things.
+> Rightclick to change mode.
+> Leftclick to activate.
+> **[NEW]** ConVars are now ready for TTT2 and can be edited in the ULX window.
 
 ### Modes:
 * Faster Time
@@ -15,10 +15,9 @@ Leftclick to activate.<br>
 * Swap Position with a random Player
 * **[NEW]** Swap Positions of two random Players (including yourself)
 
-###Type:
+### Type:
 Equip 2
 
 ### Credits:
-Main credits go to [**realgamefreak**](https://steamcommunity.com/id/realgamefreak). If he wants this code and upload it himself, I agree to remove this item.
-
+> Main credits go to [**realgamefreak**](https://steamcommunity.com/id/realgamefreak). If he wants this code and upload it himself, I agree to remove this item.
 All model Credits go to Valve. I agree to remove this item if Valve wishes to.
