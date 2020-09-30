@@ -21,3 +21,6 @@ Equip 2
 ### Credits:
 Main credits go to [**realgamefreak**](https://steamcommunity.com/id/realgamefreak). If he wants this code and upload it himself, I agree to remove this item.  
 All model Credits go to Valve. I agree to remove this item if Valve wishes to.
+
+### Workshop Files:
+[Steam ID: 2237612513](https://steamcommunity.com/sharedfiles/filedetails/?id=2237612513)
