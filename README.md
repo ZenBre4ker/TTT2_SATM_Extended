@@ -1,6 +1,6 @@
 # Space and Time Manipulator Extended (SATM)
 
-[Reupload + Extension of steamid 671603913](https://steamcommunity.com/sharedfiles/filedetails/?id=671603913) made by [realgamefreak](url=https://steamcommunity.com/id/realgamefreak)
+[Reupload + Extension of steamid 671603913](https://steamcommunity.com/sharedfiles/filedetails/?id=671603913) made by [**realgamefreak**](https://steamcommunity.com/id/realgamefreak)
 
 This Addon only works for the "Trouble in Terrorist Town"-Gamemode. This weapon will not show up in sandbox mode.
 
@@ -21,5 +21,5 @@ Swap Position with a random Player
 Type: Equip 2
 
 ### Credits:
-Main credits go to [realgamefreak](url=https://steamcommunity.com/id/realgamefreak). If he wants this code and upload it himself, I agree to remove this item.
+Main credits go to [**realgamefreak**](https://steamcommunity.com/id/realgamefreak). If he wants this code and upload it himself, I agree to remove this item.
 All model Credits go to Valve. I agree to remove this item if Valve wishes to.
